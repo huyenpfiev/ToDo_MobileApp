@@ -1,5 +1,5 @@
-# ToDo_MobileApp - Author: DINH Thi Thanh Huyen
-ionic-cordova
+#ionic-cordova - Author: DINH Thi Thanh Huyen
+Mobile application - ToDo Lists
 ================================================
 
 ---First step:---
@@ -7,7 +7,7 @@ ionic-cordova
 How to do (manually):
 1. Install Cordova : sudo npm install -g cordova
 2. Install Ionic : sudo npm install -g ionic
-_or_
+-OR-
 Instantly: npm install
 
 ---Second step:---
@@ -18,7 +18,7 @@ Instantly: npm install
 4. Run "ionic serve" on the terminal
 
 ===============================================
-**What I did:**
+---What I did:---
 1. Login
 2. Register
 3. Add and delete a project
